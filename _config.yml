@@ -1,0 +1,18 @@
+analytics: {}
+color:
+  brandColors:
+    - '#C8B8C8'
+    - '#100818'
+    - '#607898'
+    - '#8040BF'
+    - '#000000'
+  brandStrength: 1
+  lightness: 0.506756
+  rhythmicContrast: 0.603603
+  saturation: 0.73536
+cta: {}
+layout_spectrum: 0.322072
+name: constellationist
+opengraph: {}
+purpose: {}
+typography_spectrum: 0.47072
