@@ -6,10 +6,10 @@ color:
     - '#607898'
     - '#8040BF'
     - '#000000'
-  brandStrength: 1
+  brandStrength: 0.841216
   lightness: 0.506756
   rhythmicContrast: 0.603603
-  saturation: 0.73536
+  saturation: 0.603603
 cta: {}
 layout_spectrum: 0.322072
 name: constellationist
