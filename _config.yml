@@ -1,4 +1,19 @@
-analytics: {}
+name: constellationist
+favicon: null
+layout_spectrum: 0.322072
+typography_spectrum: 0.47072
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
     - '#C8B8C8'
@@ -6,13 +21,11 @@ color:
     - '#607898'
     - '#8040BF'
     - '#000000'
-  brandStrength: 0.841216
+  brandStrength: 0.4375
   lightness: 0.506756
+  saturation: 0.5625
   rhythmicContrast: 0.603603
-  saturation: 0.603603
-cta: {}
-layout_spectrum: 0.322072
-name: constellationist
-opengraph: {}
-purpose: {}
-typography_spectrum: 0.47072
+purpose:
+  - name: null
+    item: null
+    url: null
