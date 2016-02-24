@@ -1,23 +1,26 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'https://squareup.com'
-  name: The Constellationist
-  favicon: 'https://squareup.com/favicon.ico'
-  domain: squareup.com
-keywords: []
-description: 'The Wild Unknown Tarot Deck. Complete 78 Card Deck, includes minor and major arcana + instructions. NOTE: This is the 1st edition deck, and is no longer in print!'
-app_links: []
-isBasedOnUrl: 'https://squareup.com/store/constellationist/item/the-wild-unknown-tarot-deck'
-title: The Wild Unknown Tarot Deck
-datePublished: '2016-02-23T21:04:13.800Z'
-dateModified: '2016-02-23T21:03:56.558Z'
-sourcePath: _posts/2016-02-23-the-wild-unknown-tarot-deck.md
-published: true
 inFeed: true
 hasPage: false
 inNav: false
+isBasedOnUrl: 'https://squareup.com/store/constellationist/item/the-wild-unknown-tarot-deck'
+inLanguage: null
+starred: true
+keywords: []
+description: 'The Wild Unknown Tarot Deck. Complete 78 Card Deck, includes minor and major arcana + instructions. NOTE: This is the 1st edition deck, and is no longer in print!'
+datePublished: '2016-02-24T01:52:34.274Z'
+dateModified: '2016-02-24T01:52:33.957Z'
+author: []
+related: []
+app_links: []
+title: The Wild Unknown Tarot Deck
+sourcePath: _posts/2016-02-23-the-wild-unknown-tarot-deck.md
+published: true
+authors: []
+publisher:
+  name: The Constellationist
+  domain: squareup.com
+  url: 'https://squareup.com'
+  favicon: 'https://squareup.com/favicon.ico'
 _context: 'http://schema.org'
 _type: MediaObject
 
