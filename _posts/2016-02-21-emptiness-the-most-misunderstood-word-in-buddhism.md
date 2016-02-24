@@ -17,8 +17,8 @@ keywords:
   - compassion
   - phenomena
 description: '"Emptiness" is a central teaching of all Buddhism, but its true meaning is often misunderstood. If we are ever to embrace Buddhism properly into the West, we need to be clear about emptiness, since a wrong understanding of its meaning can be confusing, even harmful.'
-datePublished: '2016-02-24T11:15:37.305Z'
-dateModified: '2016-02-24T11:15:20.638Z'
+datePublished: '2016-02-24T21:08:51.711Z'
+dateModified: '2016-02-24T11:15:46.267Z'
 author: []
 related: []
 app_links: []
