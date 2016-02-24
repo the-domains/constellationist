@@ -2,37 +2,27 @@
 inFeed: true
 hasPage: false
 inNav: false
-isBasedOnUrl: 'http://constellationist.com/'
-inLanguage: en
+isBasedOnUrl: 'https://squareup.com/store/constellationist/'
+inLanguage: null
 starred: false
-keywords:
-  - thing
-  - feel
-  - kindness
-  - people
-  - think
-  - understand
-  - extroverts
-  - someone
-  - know
-  - need
-description: "So I spent half the week reconfiguring everything possible to do with my life on the internet. I broke everything like 500-million times in the process, but thankfully, it's almost all straight now. The amount of work that goes into this nonsense is mind boggling. Which is why I'm so excited about The Grid."
-datePublished: '2016-02-24T20:56:17.660Z'
-dateModified: '2016-02-24T20:56:13.561Z'
+keywords: []
+description: 'Intuitive readings, items, and art. The Constellationist is about making connections between points of light, exploring the space between, and gaining knowledge about the big picture. to learn & read more, vist the blog @ http://constellationist.com'
+datePublished: '2016-02-24T21:08:06.110Z'
+dateModified: '2016-02-24T01:51:58.584Z'
 author: []
 related: []
 app_links: []
-title: the constellationist
-authors: []
-publisher:
-  name: the constellationist
-  domain: constellationist.com
-  url: 'http://constellationist.com'
-  favicon: null
+title: The Constellationist
 sourcePath: _posts/2016-02-24-the-constellationist.md
 published: true
+authors: []
+publisher:
+  name: The Constellationist
+  domain: squareup.com
+  url: 'https://squareup.com'
+  favicon: 'https://squareup.com/favicon.ico'
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>the constellationist</h1><p>So I spent half the week reconfiguring everything possible to do with my life on the internet&amp;period; I broke everything like 500-million times in the process&amp;comma; but thankfully&amp;comma; it's almost all straight now&amp;period; The amount of work that goes into this nonsense is mind boggling&amp;period; Which is why I'm so excited about The Grid&amp;period;</p><img src="http://i2.wp.com/03a7620.netsolhost.com/WordPress/wp-content/uploads/2016/02/screenshot_2016-02-06-12-39-45_1.jpg?w=665" /></article>
+<article style=""><h1>The Constellationist</h1><p>Intuitive readings&amp;comma; items&amp;comma; and art&amp;period; The Constellationist is about making connections between points of light&amp;comma; exploring the space between&amp;comma; and gaining knowledge about the big picture&amp;period; to learn &amp; read more&amp;comma; vist the blog &amp;commat; http&amp;colon;&amp;sol;&amp;sol;constellationist&amp;period;com</p><img src="https://square-public-production.s3.amazonaws.com/files/2d1ca4fef9c7233d3ff448bb098effd2/original.png" /></article>
