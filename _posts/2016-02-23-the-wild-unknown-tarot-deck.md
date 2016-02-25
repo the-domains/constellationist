@@ -7,8 +7,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'The Wild Unknown Tarot Deck. Complete 78 Card Deck, includes minor and major arcana + instructions. NOTE: This is the 1st edition deck, and is no longer in print!'
-datePublished: '2016-02-24T01:52:34.274Z'
-dateModified: '2016-02-24T01:52:33.957Z'
+datePublished: '2016-02-25T12:28:00.761Z'
+dateModified: '2016-02-24T01:53:23.903Z'
 author: []
 related: []
 app_links: []
@@ -25,4 +25,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>The Wild Unknown Tarot Deck</h1><p>The Wild Unknown Tarot Deck&amp;period; Complete 78 Card Deck&amp;comma; includes minor and major arcana &amp;plus; instructions&amp;period; NOTE&amp;colon; This is the 1st edition deck&amp;comma; and is no longer in print&amp;excl;</p><img src="https://square-production.s3.amazonaws.com/files/767fc8f41ff7061c4d51c871b936bc05/original.jpeg" /></article>
+<article style=""><h1>The Wild Unknown Tarot Deck</h1><p>The Wild Unknown Tarot Deck. 1st Edition!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/44a8c5eed7c056e1c02eb66ae78b9ea556ab908d.jpg" /></article>
