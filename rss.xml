@@ -4,7 +4,7 @@
         <description><![CDATA[constellationist]]></description>
         <link>https://thegrid.ai/constellationist/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 26 Feb 2016 19:40:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Feb 2016 19:41:16 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/constellationist/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -19,6 +19,13 @@
             <link>https://squareup.com/store/constellationist/item/the-wild-unknown-tarot-deck</link>
             <guid isPermaLink="false">1ad661c5-8233-4524-8e3e-51da54c03e83</guid>
             <pubDate>Thu, 25 Feb 2016 12:28:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://constellationist.files.wordpress.com/2015/11/photo-1444167827109-712640e22c8e.jpg?w=1920&h=768&crop=1">]]></description>
+            <link>https://thegrid.ai/constellationist/24614ea5-b9ce-432a-9751-a876db75d374/index.html</link>
+            <guid isPermaLink="false">24614ea5-b9ce-432a-9751-a876db75d374</guid>
+            <pubDate>Fri, 26 Feb 2016 19:33:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/constellationist/afe7c5eb-2f13-4b2f-9d88-ea0acf5647d2/index.html</link>
             <guid isPermaLink="false">afe7c5eb-2f13-4b2f-9d88-ea0acf5647d2</guid>
             <pubDate>Fri, 26 Feb 2016 19:32:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[color &amp; emotion]]></title>
-            <description><![CDATA[<article><h1>color &amp; emotion</h1><p>Surrounding yourself with things that make you feel comfortable can be really important to highly sensitive people (HSPs). Environments such as home and work, where you spend a lot of time, should be supportive to maintaining your balance. HSPs are often affected by lighting, sounds, smells, colors, etc.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c1bac13dc554e9e04eab94101fe483da3e1384a1.jpg"></article>]]></description>
-            <link>https://constellationist.wordpress.com/2015/11/09/color-emotion/</link>
-            <guid isPermaLink="false">a73fd429-acce-46be-8ed4-b1ed0e79a64d</guid>
-            <pubDate>Fri, 26 Feb 2016 19:32:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
