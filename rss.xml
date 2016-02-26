@@ -4,7 +4,7 @@
         <description><![CDATA[constellationist]]></description>
         <link>https://thegrid.ai/constellationist/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 26 Feb 2016 19:38:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Feb 2016 19:38:58 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/constellationist/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -19,6 +19,13 @@
             <link>https://squareup.com/store/constellationist/item/the-wild-unknown-tarot-deck</link>
             <guid isPermaLink="false">1ad661c5-8233-4524-8e3e-51da54c03e83</guid>
             <pubDate>Thu, 25 Feb 2016 12:28:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://constellationist.files.wordpress.com/2015/11/photo-1443527216320-7e744084f5a7.jpg?w=1920&h=768&crop=1">]]></description>
+            <link>https://thegrid.ai/constellationist/b4f6b4b8-0589-4fab-a45e-81fee3d9acfe/index.html</link>
+            <guid isPermaLink="false">b4f6b4b8-0589-4fab-a45e-81fee3d9acfe</guid>
+            <pubDate>Fri, 26 Feb 2016 19:32:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[loss is deep, but love is exponential]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/constellationist/9905caac-bd59-4ea8-8e3e-fee94d56929f/index.html</link>
             <guid isPermaLink="false">9905caac-bd59-4ea8-8e3e-fee94d56929f</guid>
             <pubDate>Fri, 26 Feb 2016 19:32:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[the confusion of knowledge]]></title>
-            <description><![CDATA[<article><h1>the confusion of knowledge</h1><p>Someone sent me an article about how creative people's brains work differently. It was saying that the whole left brain, right brain thing is incorrect. Creative's brains are working making connections and working with both sides. The article pointed out that this is why creative people can understand and exist conflicting terms. Coupled with my...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6775644edf10075b41fb84e0f1de6c0d1d3bcf18.jpg"></article>]]></description>
-            <link>https://constellationist.wordpress.com/2016/01/28/the-confusion-of-knowledge/</link>
-            <guid isPermaLink="false">eeaaee35-444f-4c29-8750-b72fe86cf221</guid>
-            <pubDate>Fri, 26 Feb 2016 19:31:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
