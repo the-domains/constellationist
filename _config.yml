@@ -1,6 +1,6 @@
 name: constellationist
 favicon: null
-layout_spectrum: 0.93681
+layout_spectrum: 0.55408
 typography_spectrum: 0.47072
 cta:
   domain: null
@@ -23,8 +23,8 @@ color:
     - '#797281'
   brandStrength: 0
   lightness: 0.875
-  saturation: 0.125
-  rhythmicContrast: 0.75
+  saturation: 0.25
+  rhythmicContrast: 0.25
 purpose:
   - name: null
     item: null
