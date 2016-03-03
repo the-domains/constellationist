@@ -4,11 +4,11 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'https://squareup.com/store/constellationist/item/the-wild-unknown-tarot-deck'
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: 'The Wild Unknown Tarot Deck. Complete 78 Card Deck, includes minor and major arcana + instructions. NOTE: This is the 1st edition deck, and is no longer in print!'
-datePublished: '2016-02-25T12:28:00.761Z'
-dateModified: '2016-02-24T01:53:23.903Z'
+datePublished: '2016-03-03T21:37:40.642Z'
+dateModified: '2016-02-26T19:37:04.884Z'
 author: []
 related: []
 app_links: []
