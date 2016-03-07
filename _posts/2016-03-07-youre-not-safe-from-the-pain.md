@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'the uncertainty a chronic illness brings, and how to cope'
-datePublished: '2016-03-07T18:33:55.157Z'
-dateModified: '2016-03-07T18:33:37.827Z'
+datePublished: '2016-03-07T18:36:15.389Z'
+dateModified: '2016-03-07T18:35:05.513Z'
 title: "You're not safe from the pain."
 author: []
+sourcePath: _posts/2016-03-07-youre-not-safe-from-the-pain.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-07-youre-not-safe-from-the-pain.md
-published: true
 url: youre-not-safe-from-the-pain/index.html
 _type: Article
 
@@ -32,6 +32,6 @@ Thus, being somewhere that you feel supported is vital to our well being. Even i
 
 Also on the idea of  "feeling safe", I realize that it is relative. Our idea of safety is generally an illusion, much of it is way beyond our control. When you think about it this way, letting go can be freeing. Be aware of the things that are in your control. List making is ever helpful! 
 
-I've made a list sheet you can use to get you started looking at what you can do, and what you can let go of. [_CLICK HERE TO DOWNLOAD_][0]
+I've made a list sheet you can use to get you started looking at what you can do, and what you can let go of.  My examples are in the boxes on the first page. [_CLICK HERE TO DOWNLOAD_][0]
 
 [0]: https://docs.google.com/document/d/1qPb8XSVal8cDD7zFIR8nYFl721Oay1eQlWqsMLt_Kf8/edit?usp=sharing
