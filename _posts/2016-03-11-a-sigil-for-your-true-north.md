@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: "\_Sometimes, life can leave you spinning. In those moments, it can be difficult to remember your true direction. Do you know what drives your temporary goals? What drives your heart? If you can hold onto that bearing, nothing can really get you off track from your authentic purpose/existence.\_To help myself refocus my energy, I created this sigil to know my true north - that direction beyond the goals, that drives you, and is connected to your intuition."
-datePublished: '2016-03-11T19:38:02.702Z'
-dateModified: '2016-03-11T19:37:41.923Z'
+datePublished: '2016-03-11T22:41:39.006Z'
+dateModified: '2016-03-11T19:38:10.308Z'
 title: A SIGIL FOR YOUR TRUE NORTH
 author: []
+sourcePath: _posts/2016-03-11-a-sigil-for-your-true-north.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-11-a-sigil-for-your-true-north.md
-published: true
 url: a-sigil-for-your-true-north/index.html
 _type: Article
 
