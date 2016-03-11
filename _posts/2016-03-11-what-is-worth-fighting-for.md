@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "No matter who you are, and who you're in a relationship with, conflict is bound to arise. It's just part of being in any relationship. \_People have asked my husband and I over the years how we get along so well. There are many facets to that, but to put it simply, knowing how to fight, and what is worth fighting for is the key.\_"
-datePublished: '2016-03-11T05:43:27.415Z'
-dateModified: '2016-03-11T05:43:26.757Z'
+datePublished: '2016-03-11T05:49:54.722Z'
+dateModified: '2016-03-11T05:49:15.157Z'
 title: WHAT IS WORTH FIGHTING FOR?
 author: []
 authors: []
@@ -38,3 +38,4 @@ Conflict occurs when two patterns don't fit together. It's bound to happen, beca
 
 So when those gear teeth are grinding - it hurts, or someone is upset - ask yourself, "What am I fighting for?" Is it working towards a pattern resolution, or is it just squabbling over the effect? Call attention to the real issue. Both parties need to listen, and be heard. Engage only in considerate conversation. _**You are capable of being mad as hell, AND treating someone with kindness.**_I've experienced it, and it ALWAYS works out better.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6c595614-d772-47e0-83bd-5d99e6c7ef49.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/74cb4510-0df4-4a76-b6cb-6e55dcbe5381.jpg)
