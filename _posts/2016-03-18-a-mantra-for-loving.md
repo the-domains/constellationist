@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: "BE LOVE - in all my actions, my thoughts, my words, in my heart, I choose to embody a loving energy. \_I am loving kindness in my heart, mind, and spirit. My intention is set to choose love at every opportunity."
-datePublished: '2016-03-18T20:46:59.364Z'
-dateModified: '2016-03-18T20:46:54.217Z'
+datePublished: '2016-03-18T20:49:10.713Z'
+dateModified: '2016-03-18T20:47:07.147Z'
 title: a mantra for loving
 author: []
+sourcePath: _posts/2016-03-18-a-mantra-for-loving.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-18-a-mantra-for-loving.md
-published: true
 url: a-mantra-for-loving/index.html
 _type: Article
 
