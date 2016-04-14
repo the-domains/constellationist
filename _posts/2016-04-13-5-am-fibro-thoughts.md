@@ -6,22 +6,24 @@ inLanguage: null
 starred: false
 keywords: []
 description: "When you wake up at 5 AM, with pain shooting through your neck, and achy tightness all through you neck, shoulders, and back, it's not exactly the \"right side of the bed\". I stretch and move - I feel all rusted shut angles, trying to pry everything open so I can breathe. Everything hurts. I stretch and my bladder aches sharply. I step out of bed, pain shoots up my legs from my feet - specifically, the way my muscles are all pulled so taught, it's like my bones are hitting the floor with my nerves in between. I go pee, and it hurts, because my bladder is muscle and connective tissue, it's all tight and pulled and stretched. It aches like it's been over-extended for days, but I was just up a few hours before. I stretch my chest through the doorway, once, twice, trying to breathe.\_"
-datePublished: '2016-04-13T19:28:25.639Z'
-dateModified: '2016-04-13T19:28:23.752Z'
+datePublished: '2016-04-14T19:49:17.121Z'
+dateModified: '2016-04-14T19:49:12.409Z'
 title: 5 AM FIBRO THOUGHTS
 author: []
+sourcePath: _posts/2016-04-13-5-am-fibro-thoughts.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-13-5-am-fibro-thoughts.md
-published: true
 url: 5-am-fibro-thoughts/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b217d867-1670-45ea-81ab-572ecec890c6.jpg)
+
 When you wake up at 5 AM, with pain shooting through your neck, and achy tightness all through you neck, shoulders, and back, it's not exactly the "right side of the bed". I stretch and move - I feel all rusted shut angles, trying to pry everything open so I can breathe. Everything hurts. I stretch and my bladder aches sharply. I step out of bed, pain shoots up my legs from my feet - specifically, the way my muscles are all pulled so taught, it's like my bones are hitting the floor with my nerves in between. I go pee, and it hurts, because my bladder is muscle and connective tissue, it's all tight and pulled and stretched. It aches like it's been over-extended for days, but I was just up a few hours before. I stretch my chest through the doorway, once, twice, trying to breathe. 
 
 I think about how frustrating it is to be in so much pain, how insurances don't cover the actual treatments that help, and doctors don't really know what to do. I wish that they could wake up like this, just one morning, and realize that this is what I feel like, in some variation, EVERY DAY. 
