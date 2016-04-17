@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: "There are so many times that I want to speak up, but I've kept quiet, because I didn't feel it was my story to tell. \_I share it now, with permission, in hopes that someone else might have that moment that helps them put everything in perspective, that this story adds to the development of our mutual understanding and collective empathy.\_"
-datePublished: '2016-04-17T20:03:06.214Z'
-dateModified: '2016-04-17T20:02:43.385Z'
+datePublished: '2016-04-17T20:06:09.383Z'
+dateModified: '2016-04-17T20:03:15.118Z'
 title: Why Autism Awareness Is So Important To Me
 author: []
+sourcePath: _posts/2016-04-17-why-autism-awareness-is-so-important-to-me.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-17-why-autism-awareness-is-so-important-to-me.md
-published: true
 url: why-autism-awareness-is-so-important-to-me/index.html
 _type: Article
 
