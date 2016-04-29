@@ -5,10 +5,12 @@ inNav: false
 inLanguage: null
 keywords: []
 description: "Music has always been a huge part of my existence. Thinking about it now, I'm not sure that there were many other kids making mix tapes when they were 6... so it's not a surprise to me that there exists research on how music therapy can help fibromyalgia patients. It has always helped me, whether it was intentional or not. Some studies show that music, along with guided meditation, is effective in helping fibromyalgia patients manage their pain. I think there is definitely power in setting that intention, consciously entering into a state of awareness of the energy of the music, allowing and willing it to affect your energy. "
-datePublished: '2016-04-26T00:15:23.901Z'
-dateModified: '2016-04-25T23:38:41.637Z'
+datePublished: '2016-04-29T05:23:31.971Z'
+dateModified: '2016-04-26T00:15:27.228Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-26-fibromyalgia-music-therapy.md
+published: true
 authors: []
 publisher:
   name: null
@@ -16,8 +18,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-04-26-fibromyalgia-music-therapy.md
-published: true
 url: fibromyalgia-music-therapy/index.html
 _type: Article
 
@@ -38,7 +38,6 @@ _[http://www.eurekalert.org/pub\_releases/2011-05/uog-mtr052611.php][1]_
 _[https://www.verywell.com/music-therapy-for-fibromyalgia-pain-does-it-work-715653][2]_
 
 __
-
 
 [0]: https://twitter.com/cnstlltnst
 [1]: http://www.eurekalert.org/pub_releases/2011-05/uog-mtr052611.php
