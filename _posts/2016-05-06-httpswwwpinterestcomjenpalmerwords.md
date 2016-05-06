@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'https://www.pinterest.com/jenpalmer/words/'
-datePublished: '2016-05-06T19:51:47.993Z'
-dateModified: '2016-05-06T19:51:47.232Z'
+datePublished: '2016-05-06T20:15:57.638Z'
+dateModified: '2016-05-06T20:15:54.192Z'
 authors: []
 publisher:
   name: null
