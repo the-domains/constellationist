@@ -4,11 +4,14 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: " I'm not sure how to explain this better, but I will say that my husband absolutely gets this right. Where I find myself frustrated with the other ways people \"handle\" me, I don't with him. ( Trust me, I'm totally aware how I am lucky here - and so grateful that he is giving, compassionate, and understanding)."
-datePublished: '2016-05-12T20:17:12.583Z'
-dateModified: '2016-05-12T20:11:31.196Z'
+description: " I'm not sure how to explain this better, but I will say that my husband absolutely gets this right. ( Trust me, I'm totally aware how I am lucky here - and so grateful that he is giving, compassionate, and understanding)."
+datePublished: '2016-05-12T20:26:17.058Z'
+dateModified: '2016-05-12T20:25:51.491Z'
 title: ''
-author: []
+author:
+  - name: ''
+    url: ''
+sourcePath: _posts/2016-05-12-fibromyalgia-awareness-day-2016.md
 authors: []
 publisher:
   name: null
@@ -16,7 +19,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-12-fibromyalgia-awareness-day-2016.md
 url: fibromyalgia-awareness-day-2016/index.html
 _type: Article
 
@@ -25,7 +27,7 @@ _type: Article
 
 I'll save my full thoughts on inclusiveness for another post, but I want to share how very important it is to speak on this subject regarding those who suffer with fibromyalgia. 
 
-I'm not sure how to explain this better, but I will say that my husband absolutely gets this right. Where I find myself frustrated with the other ways people "handle" me, I don't with him. _( Trust me, I'm totally aware how I am lucky here - and so grateful that he is giving, compassionate, and understanding)._
+I'm not sure how to explain this better, but I will say that my husband absolutely gets this right. _( Trust me, I'm totally aware how I am lucky here - and so grateful that he is giving, compassionate, and understanding)._
 
 I guess what makes it so different with my husband, over all else, is that he always abides with me, allowing me to go through whatever I am going through, without seeing me as something other than myself. He doesn't handle me with fear. He respects that I will tell him when I'm too tired to do something, and he respects that I know what I need. He helps and takes care of me without telling me I'm doing things wrong. 
 
