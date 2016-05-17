@@ -21,10 +21,10 @@ color:
     - '#321846'
     - '#9e9da2'
     - '#797281'
-  brandStrength: 0.5625
-  lightness: 0.5
+  brandStrength: 0.125
+  lightness: 0.5625
   saturation: 0
-  rhythmicContrast: 0.5
+  rhythmicContrast: 0.75
 purpose:
   - name: null
     item: null
