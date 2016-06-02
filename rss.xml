@@ -4,7 +4,7 @@
         <description><![CDATA[constellationist]]></description>
         <link>https://thegrid.ai/constellationist/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 26 May 2016 18:50:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Jun 2016 02:43:12 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/constellationist/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Fibromyalgia Awareness Day Art Auction]]></title>
@@ -19,6 +19,13 @@
             <link>https://constellationist.wordpress.com/2015/11/17/a-tarot-wish-list/</link>
             <guid isPermaLink="false">e4eb67c8-284a-47dd-b34b-d740b27ef76e</guid>
             <pubDate>Fri, 26 Feb 2016 19:31:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[I'm not "just saying!"]]></title>
+            <description><![CDATA[<p>"the phrase “just saying” after an off-putting remark apparently gives the speaker a free pass to say anything and then magically negate any ill intent." -Lynn Margolies, Ph.D.</p>]]></description>
+            <link>https://thegrid.ai/constellationist/im-not-just-saying/index.html</link>
+            <guid isPermaLink="false">ed32b65f-c209-4975-92cf-b21eedfcab58</guid>
+            <pubDate>Thu, 02 Jun 2016 02:43:04 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[When "Let It Go" Doesn't Cut It " In My Sacred Space]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/constellationist/fibromyalgia-awareness-day-2016/index.html</link>
             <guid isPermaLink="false">27c4a8ec-7508-4d77-bc38-a4b64e279011</guid>
             <pubDate>Thu, 12 May 2016 20:26:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[BIRD MESSENGERS: the black swan]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8a011f0e-497c-4aa5-ae37-08dcd872209a.jpg">]]></description>
-            <link>https://thegrid.ai/constellationist/bird-messengers-the-black-swan/index.html</link>
-            <guid isPermaLink="false">ced1a1c0-293a-44d4-9b98-5e8e8714a48c</guid>
-            <pubDate>Thu, 05 May 2016 20:38:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
