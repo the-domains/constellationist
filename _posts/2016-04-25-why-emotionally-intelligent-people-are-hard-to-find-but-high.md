@@ -1,8 +1,7 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: 'http://iheartintelligence.com/2015/11/23/emotionally-intelligent-people/'
 inLanguage: en
 keywords:
   - emotional
@@ -15,13 +14,20 @@ keywords:
   - self-awareness
   - relationship
   - stories
-description: 2. Mood management- handling feelings so they’re relevant to the current situation and you react appropriately
-datePublished: '2016-04-25T22:50:06.188Z'
-dateModified: '2016-04-25T22:49:39.293Z'
+description: >-
+  2. Mood management- handling feelings so they’re relevant to the current
+  situation and you react appropriately
+datePublished: '2016-06-06T19:42:41.867Z'
+dateModified: '2016-06-06T19:42:19.253Z'
 author: []
 related:
   - score: 0.7381489873
-    description: "We're now accepting submissions for our 2016 Top Company Cultures list. Think your company should be on it? Apply Now \" Many psychologists and experts in human behavior believe that a person's emotional intelligence quotient (EQ) may be more important to success than the person's intelligence quotient (IQ)."
+    description: >-
+      We're now accepting submissions for our 2016 Top Company Cultures list.
+      Think your company should be on it? Apply Now " Many psychologists and
+      experts in human behavior believe that a person's emotional intelligence
+      quotient (EQ) may be more important to success than the person's
+      intelligence quotient (IQ).
     title: How Important Is Emotional Intelligence to Success in Business?
     url: 'http://www.entrepreneur.com/article/248329'
     thumbnail_height: 867
@@ -29,15 +35,17 @@ related:
     thumbnail_width: 1300
 app_links: []
 title: Why emotionally intelligent people are hard to find but highly sought after.
-sourcePath: _posts/2016-04-25-why-emotionally-intelligent-people-are-hard-to-find-but-high.md
-published: true
+sourcePath: >-
+  _posts/2016-04-25-why-emotionally-intelligent-people-are-hard-to-find-but-high.md
 authors: []
 publisher:
   name: I Heart Intelligence
   domain: iheartintelligence.com
   url: 'http://iheartintelligence.com'
-  favicon: 'http://iheartintelligence.com/wp-content/uploads/2015/09/cropped-ihi-logo-milen2-192x192.png'
+  favicon: >-
+    http://iheartintelligence.com/wp-content/uploads/2015/09/cropped-ihi-logo-milen2-192x192.png
 starred: false
+url: why-emotionally-intelligent-people-are-hard-to-find-but-high/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
