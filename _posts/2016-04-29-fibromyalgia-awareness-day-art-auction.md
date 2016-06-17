@@ -10,14 +10,14 @@ description: >-
   "fundraising", and then how I'm donating a piece to a fundraiser for the
   National Fibromyalgia and Chronic Pain Association , and how I'm not a
   hypocrite for doing so...but I'll get into all that later...
-datePublished: '2016-06-17T22:22:30.722Z'
-dateModified: '2016-06-17T22:22:30.436Z'
+datePublished: '2016-06-17T22:22:32.879Z'
+dateModified: '2016-06-17T22:22:32.684Z'
 title: ''
 author: []
 authors: []
 publisher: null
 sourcePath: _posts/2016-04-29-fibromyalgia-awareness-day-art-auction.md
-starred: true
+starred: false
 url: fibromyalgia-awareness-day-art-auction/index.html
 _type: Article
 
