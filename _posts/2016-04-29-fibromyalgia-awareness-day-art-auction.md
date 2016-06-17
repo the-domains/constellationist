@@ -4,20 +4,20 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: "I just got off the phone with my best friend. We talk about everything, paint colors to politics, and tonight, I was going off about my issue with \"fundraising\", and then how I'm donating a piece to a fundraiser for the National Fibromyalgia and Chronic Pain Association , and how I'm not a hypocrite for doing so...but I'll get into all that later..."
-datePublished: '2016-04-29T04:47:42.974Z'
-dateModified: '2016-04-29T04:47:42.092Z'
+description: >-
+  I just got off the phone with my best friend. We talk about everything, paint
+  colors to politics, and tonight, I was going off about my issue with
+  "fundraising", and then how I'm donating a piece to a fundraiser for the
+  National Fibromyalgia and Chronic Pain Association , and how I'm not a
+  hypocrite for doing so...but I'll get into all that later...
+datePublished: '2016-06-17T22:22:27.865Z'
+dateModified: '2016-06-17T22:22:27.699Z'
 title: ''
 author: []
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
-starred: true
+publisher: null
 sourcePath: _posts/2016-04-29-fibromyalgia-awareness-day-art-auction.md
-published: true
+starred: false
 url: fibromyalgia-awareness-day-art-auction/index.html
 _type: Article
 
