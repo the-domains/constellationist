@@ -10,7 +10,7 @@ description: >-
   "fundraising", and then how I'm donating a piece to a fundraiser for the
   National Fibromyalgia and Chronic Pain Association , and how I'm not a
   hypocrite for doing so...but I'll get into all that later...
-datePublished: '2016-06-17T22:22:27.865Z'
+datePublished: '2016-06-17T22:22:27.877Z'
 dateModified: '2016-06-17T22:22:27.699Z'
 title: ''
 author: []
