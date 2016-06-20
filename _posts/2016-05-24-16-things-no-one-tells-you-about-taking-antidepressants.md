@@ -2,7 +2,8 @@
 inFeed: true
 hasPage: false
 inNav: false
-isBasedOnUrl: 'https://www.buzzfeed.com/annaborges/no-zombies-here?crlt.pid=camp.eXSbdf4z3zBr&utm_term=.ynaQxkY6K#.mmdRvZEm2'
+isBasedOnUrl: >-
+  https://www.buzzfeed.com/annaborges/no-zombies-here?crlt.pid=camp.eXSbdf4z3zBr&utm_term=.ynaQxkY6K#.mmdRvZEm2
 inLanguage: en
 keywords:
   - antidepressants
@@ -15,9 +16,13 @@ keywords:
   - medical
   - feeling
   - taking
-description: "It can be frustrating to deal with all the misinformation about what medications do, and how they make you feel. I like to explain meds as tools we can use, like a wrench. You use it to work on a car, but it won't fix the car for you! "
-datePublished: '2016-05-24T18:09:59.970Z'
-dateModified: '2016-05-24T18:07:43.761Z'
+description: >-
+  It can be frustrating to deal with all the misinformation about what
+  medications do, and how they make you feel. I like to explain meds as tools we
+  can use, like a wrench. You use it to work on a car, but it won't fix the car
+  for you! 
+datePublished: '2016-06-20T23:01:56.521Z'
+dateModified: '2016-05-24T18:10:03.529Z'
 title: 16 Things No One Tells You About Taking Antidepressants
 author:
   - name: ''
