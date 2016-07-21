@@ -1,19 +1,4 @@
-name: constellationist
-favicon: null
-layout_spectrum: 0.87088
 typography_spectrum: 0.47072
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#ffffff'
@@ -25,6 +10,26 @@ color:
   lightness: 0.5625
   saturation: 0
   rhythmicContrast: 0.75
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.87088
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: constellationist
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - id: 3c6a7ff5-32e2-40f5-868c-ca8b62d5fe41
+    url: 2016-03-01-shop.html
+    name: SHOP
+    type: content
+favicon: null
 purpose:
   - name: null
     item: null
