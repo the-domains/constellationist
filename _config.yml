@@ -19,6 +19,11 @@ analytics:
   google: null
   facebook: null
   twitter: null
+author:
+  name: the constellationist
+  email: theconstellationist@gmail.com
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/e60729ed-0b8e-4006-8cf7-f1a0639f1be8.png
 name: constellationist
 cta:
   domain: null
