@@ -29,11 +29,7 @@ cta:
   domain: null
   bucket: null
   version: null
-navigation:
-  - id: 3c6a7ff5-32e2-40f5-868c-ca8b62d5fe41
-    url: 2016-03-01-shop.html
-    name: SHOP
-    type: content
+navigation: []
 favicon: null
 purpose:
   - name: null
