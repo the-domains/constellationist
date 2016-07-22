@@ -34,10 +34,6 @@ navigation:
     url: 2016-03-01-shop.html
     name: SHOP
     type: content
-  - id: 21f55419-dd9a-47c2-a34e-9d29a734f1ec
-    url: 2016-03-11-comments-and-questions.html
-    name: COMMENTS & QUESTIONS
-    type: content
 favicon: null
 purpose:
   - name: null
